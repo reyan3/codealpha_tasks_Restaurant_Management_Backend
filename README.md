@@ -72,8 +72,8 @@ Restaurant Management Backend/
 
 ```bash
 # Clone the repository
-git clone https://github.com/reyan3/codealpha_tasks_Restaurant_Management_Backend/Restaurant_management_Backend.git
-cd codealpha_tasks_Restaurant_Management_Backend/Restaurant_management_Backend
+git clone https://github.com/reyan3/codealpha_tasks_Restaurant_Management_Backend/Restaurant management Backend.git
+cd codealpha_tasks_Restaurant_Management_Backend/Restaurant management Backend
 
 # Install dependencies
 npm install
